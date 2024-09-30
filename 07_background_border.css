@@ -1,0 +1,15 @@
+.mydiv{
+    width: 500px;
+    height: 50000px;
+
+   /* background-color: green;
+   background-image: url(./img/kimon-maritz-zMV7sqlJNow-unsplash.jpg);
+   background-repeat:no-repeat ;
+   background-position: 10% 10%;
+   background-size: cover;*/
+   background: url(./img/kimon-maritz-zMV7sqlJNow-unsplash.jpg) no-repeat top left ;
+   background-attachment: fixed;
+   
+    
+   
+}
